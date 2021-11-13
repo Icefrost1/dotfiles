@@ -3,7 +3,7 @@ Hello this is my personal dotfiles, tho it's very much copied from another user.
 
 # Icefrost tokyo night theme instructions:
 
-Put the "icons" folder in ".local/share/icons/"
+`Put the "icons" folder in ".local/share/icons/"`
 
 On the ".config" file you need to put the inside of the folder, so you need to copy the contents inside then paste them to your .config folder located in ur home directory.
 
