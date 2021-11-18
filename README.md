@@ -14,3 +14,5 @@ To install oh-my-bash type this commands via curl:**sh -c "$(curl -fsSL https://
 And finally put ur **".bashrc"** on ur home directory.
 
 Credits to: https://github.com/revaldy-30. This is originaly his/her theme, but i have done some few tweaks to my liking, will be updating this so it's still not final. And sorry for my bad grammar pls don't hurt me im only **13** 😅️.
+
+Note: Still working on the final touch.
